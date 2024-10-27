@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4520.77 988">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-family: Inter-ExtraBoldItalic, Inter;
+        font-size: 600px;
+        font-style: italic;
+        font-variation-settings: 'wght' 800, 'slnt' -10;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-1" d="M494,47c60.37,0,118.9,11.81,173.98,35.11,53.22,22.51,101.03,54.75,142.1,95.82,41.07,41.07,73.3,88.88,95.82,142.1,23.3,55.08,35.11,113.61,35.11,173.98s-11.81,118.9-35.11,173.98c-22.51,53.22-54.75,101.03-95.82,142.1s-88.88,73.3-142.1,95.82c-55.08,23.3-113.61,35.11-173.98,35.11s-118.9-11.81-173.98-35.11c-53.22-22.51-101.03-54.75-142.1-95.82-41.07-41.07-73.3-88.88-95.82-142.1-23.3-55.08-35.11-113.61-35.11-173.98s11.81-118.9,35.11-173.98c22.51-53.22,54.75-101.03,95.82-142.1,41.07-41.07,88.88-73.3,142.1-95.82,55.08-23.3,113.61-35.11,173.98-35.11M494,0C221.17,0,0,221.17,0,494s221.17,494,494,494,494-221.17,494-494S766.83,0,494,0h0Z"/>
+    <circle class="cls-1" cx="222" cy="320" r="61"/>
+    <circle class="cls-1" cx="770" cy="616" r="61"/>
+    <circle class="cls-1" cx="233" cy="663" r="61"/>
+    <circle class="cls-1" cx="740" cy="271" r="61"/>
+    <circle class="cls-1" cx="152" cy="490" r="61"/>
+    <circle class="cls-1" cx="636" cy="779" r="61"/>
+    <circle class="cls-1" cx="333" cy="781" r="61"/>
+    <circle class="cls-1" cx="485" cy="821" r="61"/>
+    <circle class="cls-1" cx="526" cy="170" r="61"/>
+    <circle class="cls-1" cx="348" cy="197" r="61"/>
+    <circle class="cls-1" cx="670" cy="500" r="61"/>
+    <circle class="cls-1" cx="820" cy="428" r="61"/>
+    <circle class="cls-1" cx="506" cy="478" r="61"/>
+    <circle class="cls-1" cx="409" cy="343" r="61"/>
+    <circle class="cls-1" cx="603" cy="320" r="61"/>
+    <circle class="cls-1" cx="587" cy="638" r="61"/>
+    <circle class="cls-1" cx="416" cy="612" r="61"/>
+    <circle class="cls-1" cx="306" cy="489" r="61"/>
+  </g>
+  <text class="cls-2" transform="translate(999.23 749.07)"><tspan x="0" y="0">CookieChat</tspan></text>
+</svg>
